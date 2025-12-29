@@ -1,2 +1,2 @@
 # content-quality-ai
-Content Quality AI is an AI-powered system that analyzes and evaluates digital content quality using natural language processing and machine learning techniques. It assesses readability, clarity, relevance, and consistency to support content optimization and data-driven decision-making
+AI is a machine learning–based project designed to automatically evaluate the quality of textual content. The system leverages NLP techniques and statistical analysis to measure readability, coherence, and overall content effectiveness. Built using Python and modern ML libraries, this project helps identify low-quality content, improve user engagement, and support scalable content moderation and analytics workflows.
